@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Image } from 'expo-image';
 import { LinearGradient } from 'expo-linear-gradient';
 
+
 export default function App() {
   return (
     <View style={styles.container}>

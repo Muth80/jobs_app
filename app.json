@@ -12,6 +12,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "scheme": "myapp",
     "plugins": [
       [
         "expo-build-properties",
@@ -23,7 +24,8 @@
             "newArchEnabled": true
           }
         }
-      ]
+      ],
+      "expo-router"
     ]
   }
 }
